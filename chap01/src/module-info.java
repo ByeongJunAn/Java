@@ -6,4 +6,5 @@
  *
  */
 module chap01 {
+	requires java.naming;
 }
