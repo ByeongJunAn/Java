@@ -1,6 +1,6 @@
-package chap6;
+package Day6;
 
-public class Switch2Demo {
+public class Switch5Demo {
 
 	public static void main(String[] args) {
 		whoIsIt("호랑이");
@@ -10,24 +10,26 @@ public class Switch2Demo {
 	}
 
 	static void whoIsIt(String bio) {
-		String kind = " ";
-		switch (bio) {
+		String kind = switch (bio) {
 		case "호랑이":
 		case "사자":
-			kind = "포유류";
-			break;
+			yield "포유류";
+
 		case "독수리":
 		case "참새":
-			kind = "조류";
-			break;
+			yield "조류";
+
 		case "고등어":
 		case "연어":
-			kind = "어류";
-			break;
+			yield "어류";
 
-		default:
+		// kind = "어류"
+		// break;
+		default: {
 			System.out.print("어이쿠!");
+			yield "...";
 		}
+		};
 
 		System.out.printf("%s는 %s이다. \n", bio, kind);
 	}

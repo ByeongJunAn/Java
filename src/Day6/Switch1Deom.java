@@ -1,4 +1,4 @@
-package chap6;
+package Day6;
 
 public class Switch1Deom {
 

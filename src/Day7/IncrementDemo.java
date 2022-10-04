@@ -1,4 +1,4 @@
-package chap7;
+package Day7;
 
 public class IncrementDemo {
 
