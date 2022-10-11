@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <projectDescription>
+<<<<<<< HEAD
+<<<<<<< HEAD
+	<name>javaexam-day10</name>
+=======
 	<name>Java14</name>
+>>>>>>> branch 'master' of https://github.com/ByeongJunAn/eclipse.git
+=======
+	<name>Java14</name>
+>>>>>>> branch 'master' of https://github.com/ByeongJunAn/eclipse.git
 	<comment></comment>
 	<projects>
 	</projects>
