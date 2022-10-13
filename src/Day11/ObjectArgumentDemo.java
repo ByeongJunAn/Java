@@ -19,8 +19,8 @@ public class ObjectArgumentDemo {
 
 	}
 
-	public static void zero(double r) {
-		r = 0.0;
+	public static void zero(double radius) {
+		radius = 0.0;
 
 	}
 
