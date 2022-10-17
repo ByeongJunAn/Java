@@ -1,6 +1,16 @@
 eclipse.preferences.version=1
 org.eclipse.jdt.core.compiler.codegen.inlineJsrBytecode=enabled
+<<<<<<< HEAD
+=======
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
 org.eclipse.jdt.core.compiler.codegen.methodParameters=do not generate
+>>>>>>> branch 'master' of https://github.com/ByeongJunAn/eclipse.git
+=======
+org.eclipse.jdt.core.compiler.codegen.methodParameters=do not generate
+>>>>>>> branch 'master' of https://github.com/ByeongJunAn/eclipse.git
+>>>>>>> branch 'master' of https://github.com/ByeongJunAn/eclipse.git
 org.eclipse.jdt.core.compiler.codegen.targetPlatform=14
 org.eclipse.jdt.core.compiler.codegen.unusedLocal=preserve
 org.eclipse.jdt.core.compiler.compliance=14
