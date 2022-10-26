@@ -26,4 +26,9 @@ public class Circle {
 
 	}
 
+	public void setRadius(double d) {
+		// TODO Auto-generated method stub
+
+	}
+
 }
