@@ -45,6 +45,7 @@ public class CarTest {
 
 	public static void tokenizer(String s, String d) {
 		StringTokenizer st = new StringTokenizer(s, d);
+//		StringTokenizer st = new StringTokenizer(s, "[=],()");
 
 //		System.out.println(st.countTokens());
 

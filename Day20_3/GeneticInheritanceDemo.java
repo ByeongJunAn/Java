@@ -11,11 +11,13 @@ public class GeneticInheritanceDemo {
 
 		ArrayList<Beer> list2 = new ArrayList<>();
 		list2.add(new Beer());
-//		beverageTest(list2);  //배열로 보면 beverage 배열과 beer 배열은 다르므로 beer는 쓸 수 없다. 
+//		beverageTest(list2); // 배열로 보면 beverage 배열과 beer 배열은 다르므로 beer는 쓸 수 없다.
+//		beverageTest(list2);
 
 	}
 
-	static public void beverageTest(ArrayList<Beverage> list) {
+	static public void beverageTest(ArrayList<Beverage> list1) {
+//	static public void beverageTest(ArrayList<?> list) {
 
 	}
 
