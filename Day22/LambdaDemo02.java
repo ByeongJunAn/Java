@@ -1,6 +1,6 @@
 package Day22;
 
-public class LamdaDemo02 {
+public class LambdaDemo02 {
 
 	public static void main(String[] args) {
 		Negative n;
